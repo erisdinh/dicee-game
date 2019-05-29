@@ -1,0 +1,6 @@
+E:\GitHub\dice-game\GameLogic\bin\Debug\GameLogic.dll
+E:\GitHub\dice-game\GameLogic\bin\Debug\GameLogic.pdb
+E:\GitHub\dice-game\GameLogic\obj\Debug\GameLogic.csproj.CoreCompileInputs.cache
+E:\GitHub\dice-game\GameLogic\obj\Debug\GameLogic.dll
+E:\GitHub\dice-game\GameLogic\obj\Debug\GameLogic.pdb
+E:\GitHub\dice-game\GameLogic\obj\Debug\GameLogic.csprojAssemblyReference.cache

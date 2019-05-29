@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceeGame", "DiceeGame.csproj", "{72857A12-E114-477D-AF68-1C9FF65D9D80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLogic", "..\GameLogic\GameLogic.csproj", "{8EFEA4F6-1607-4AE2-AB1C-5DC1485FB47B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72857A12-E114-477D-AF68-1C9FF65D9D80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72857A12-E114-477D-AF68-1C9FF65D9D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72857A12-E114-477D-AF68-1C9FF65D9D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72857A12-E114-477D-AF68-1C9FF65D9D80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EFEA4F6-1607-4AE2-AB1C-5DC1485FB47B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EFEA4F6-1607-4AE2-AB1C-5DC1485FB47B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EFEA4F6-1607-4AE2-AB1C-5DC1485FB47B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EFEA4F6-1607-4AE2-AB1C-5DC1485FB47B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE6BB973-83FA-4190-8A32-A3E6C7F4E9B1}
+	EndGlobalSection
+EndGlobal
