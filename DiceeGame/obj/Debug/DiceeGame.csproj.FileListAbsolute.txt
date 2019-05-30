@@ -8,3 +8,14 @@ E:\GitHub\dice-game\DiceeGame\obj\Debug\DiceeGame.csproj.CoreCompileInputs.cache
 E:\GitHub\dice-game\DiceeGame\obj\Debug\DiceeGame.csproj.CopyComplete
 E:\GitHub\dice-game\DiceeGame\obj\Debug\DiceeGame.exe
 E:\GitHub\dice-game\DiceeGame\obj\Debug\DiceeGame.pdb
+E:\GitHub\dicee-game\DiceeGame\bin\Debug\DiceeGame.exe.config
+E:\GitHub\dicee-game\DiceeGame\bin\Debug\DiceeGame.exe
+E:\GitHub\dicee-game\DiceeGame\bin\Debug\DiceeGame.pdb
+E:\GitHub\dicee-game\DiceeGame\bin\Debug\GameLogic.dll
+E:\GitHub\dicee-game\DiceeGame\bin\Debug\GameLogic.pdb
+E:\GitHub\dicee-game\DiceeGame\obj\Debug\DiceeGame.csprojAssemblyReference.cache
+E:\GitHub\dicee-game\DiceeGame\obj\Debug\DiceeGame.csproj.CoreCompileInputs.cache
+E:\GitHub\dicee-game\DiceeGame\obj\Debug\DiceeGame.csproj.CopyComplete
+E:\GitHub\dicee-game\DiceeGame\obj\Debug\DiceeGame.exe
+E:\GitHub\dicee-game\DiceeGame\obj\Debug\DiceeGame.pdb
+E:\GitHub\dicee-game\DiceeGame\bin\Debug\GameLogic.xml

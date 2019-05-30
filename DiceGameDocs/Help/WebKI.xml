@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="ActivePlayer property" Url="html/dc6d204b-0136-a685-c2bb-777d717ecf3b.htm" />
+  <HelpKINode Title="AddPlayer method" Url="html/2f7ff0ec-e935-08b7-3ae8-fc3c833b17e1.htm" />
+  <HelpKINode Title="ComputeTurnResult method" Url="html/84356313-e71f-90bb-2a16-20a3e089df9e.htm" />
+  <HelpKINode Title="Dice class">
+    <HelpKINode Title="Dice Class" Url="html/b36401ce-d023-d3fa-246f-fbcefb58bfef.htm" />
+    <HelpKINode Title="constructor" Url="html/0a955304-1598-cc04-8e1d-187cce8dabc4.htm" />
+    <HelpKINode Title="methods" Url="html/4fdae7ff-a951-5a1f-c73c-7938cefa1f3f.htm" />
+    <HelpKINode Title="properties" Url="html/f61a5bc3-cf8d-9638-4671-c25f573205c3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Dice.Dice constructor" Url="html/0a955304-1598-cc04-8e1d-187cce8dabc4.htm" />
+  <HelpKINode Title="Dice.Face property" Url="html/639ee44a-c888-b474-0d12-14b53b14fd1c.htm" />
+  <HelpKINode Title="Dice.Max property" Url="html/63a1c344-9892-f808-e473-589826e3e3f4.htm" />
+  <HelpKINode Title="Dice.Roll method" Url="html/0e40d782-9157-1876-5857-4d7b3857aade.htm" />
+  <HelpKINode Title="DiceGame class">
+    <HelpKINode Title="DiceGame Class" Url="html/af50fc66-9075-63a4-1ef3-ff4c31d87d17.htm" />
+    <HelpKINode Title="constructor" Url="html/02aa7e24-a717-0c7a-bd8b-8b705933e204.htm" />
+    <HelpKINode Title="methods" Url="html/77ecabb1-6bf2-f663-d8e7-423149645dfb.htm" />
+    <HelpKINode Title="properties" Url="html/9d407bc9-8205-600a-eda8-d98abb5f3136.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DiceGame.ActivePlayer property" Url="html/dc6d204b-0136-a685-c2bb-777d717ecf3b.htm" />
+  <HelpKINode Title="DiceGame.AddPlayer method" Url="html/2f7ff0ec-e935-08b7-3ae8-fc3c833b17e1.htm" />
+  <HelpKINode Title="DiceGame.ComputeTurnResult method" Url="html/84356313-e71f-90bb-2a16-20a3e089df9e.htm" />
+  <HelpKINode Title="DiceGame.DiceGame constructor" Url="html/02aa7e24-a717-0c7a-bd8b-8b705933e204.htm" />
+  <HelpKINode Title="DiceGame.Dices property" Url="html/c092a906-3049-3213-44f2-cd97c7266e88.htm" />
+  <HelpKINode Title="DiceGame.IsGameOver property" Url="html/d8fe0b9a-19af-c3dd-9d75-e51e53915b7f.htm" />
+  <HelpKINode Title="DiceGame.Players property" Url="html/c795093e-f9b5-e27f-9d37-b916d71aacec.htm" />
+  <HelpKINode Title="DiceGame.PlayTurn method" Url="html/9c227c60-5601-103e-f8c0-c93904c1e4cd.htm" />
+  <HelpKINode Title="DiceGame.RollDice method" Url="html/24152c03-a623-eb84-6203-6abb0985124b.htm" />
+  <HelpKINode Title="DiceGame.SetNextPlayer method" Url="html/22fc089d-57e1-bfda-e3e8-b6fa221dfb81.htm" />
+  <HelpKINode Title="DiceGame.StartGame method" Url="html/c13d7ff6-8757-c86b-0a8d-10fbe8138762.htm" />
+  <HelpKINode Title="DiceGame.TheWinner method" Url="html/0dc5bf36-033b-1adf-1ee5-b7c7480e85bf.htm" />
+  <HelpKINode Title="DiceGame.Turn property" Url="html/84d3a6f0-4ffb-800b-dbf4-aae9dca976c3.htm" />
+  <HelpKINode Title="DiceGame.UpdatePlayerStat method" Url="html/444bcd8f-38b8-4d69-e4c2-a81d27f0cb86.htm" />
+  <HelpKINode Title="Dices property" Url="html/c092a906-3049-3213-44f2-cd97c7266e88.htm" />
+  <HelpKINode Title="Face property" Url="html/639ee44a-c888-b474-0d12-14b53b14fd1c.htm" />
+  <HelpKINode Title="GameLogic.Logic namespace" Url="html/0895f09e-a1f2-e3e6-aa53-eb24c89c95d4.htm" />
+  <HelpKINode Title="GameLogic.Logic.Dice class" Url="html/b36401ce-d023-d3fa-246f-fbcefb58bfef.htm" />
+  <HelpKINode Title="GameLogic.Logic.DiceGame class" Url="html/af50fc66-9075-63a4-1ef3-ff4c31d87d17.htm" />
+  <HelpKINode Title="GameLogic.Logic.Player class" Url="html/459d2636-2c03-90d0-c913-4a132de70fb1.htm" />
+  <HelpKINode Title="GameLogic.Logic.RollResult enumeration" Url="html/546a424c-4342-f8a9-a25e-49b90661b275.htm" />
+  <HelpKINode Title="History property" Url="html/6518fe47-9169-0313-eea3-7ec95d8379d8.htm" />
+  <HelpKINode Title="IsGameOver property" Url="html/d8fe0b9a-19af-c3dd-9d75-e51e53915b7f.htm" />
+  <HelpKINode Title="JACKPOT enumeration member" Url="html/546a424c-4342-f8a9-a25e-49b90661b275.htm" />
+  <HelpKINode Title="LOSE enumeration member" Url="html/546a424c-4342-f8a9-a25e-49b90661b275.htm" />
+  <HelpKINode Title="Max property" Url="html/63a1c344-9892-f808-e473-589826e3e3f4.htm" />
+  <HelpKINode Title="Name property" Url="html/629ccc6d-defd-b5f0-460c-4a0f45fe347e.htm" />
+  <HelpKINode Title="Player class">
+    <HelpKINode Title="Player Class" Url="html/459d2636-2c03-90d0-c913-4a132de70fb1.htm" />
+    <HelpKINode Title="constructor" Url="html/ff9eca5d-c194-dd84-6731-53cdc0a1dd40.htm" />
+    <HelpKINode Title="methods" Url="html/f6712f26-aefd-c483-268a-12d548ed9098.htm" />
+    <HelpKINode Title="properties" Url="html/0c9c4796-0c44-9475-9e6c-0547ba8c35d7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Player.History property" Url="html/6518fe47-9169-0313-eea3-7ec95d8379d8.htm" />
+  <HelpKINode Title="Player.Name property" Url="html/629ccc6d-defd-b5f0-460c-4a0f45fe347e.htm" />
+  <HelpKINode Title="Player.Player constructor" Url="html/ff9eca5d-c194-dd84-6731-53cdc0a1dd40.htm" />
+  <HelpKINode Title="Player.Score property" Url="html/85f5759b-117e-f241-0e63-e4a94c887e85.htm" />
+  <HelpKINode Title="Players property" Url="html/c795093e-f9b5-e27f-9d37-b916d71aacec.htm" />
+  <HelpKINode Title="PlayTurn method" Url="html/9c227c60-5601-103e-f8c0-c93904c1e4cd.htm" />
+  <HelpKINode Title="Roll method" Url="html/0e40d782-9157-1876-5857-4d7b3857aade.htm" />
+  <HelpKINode Title="RollDice method" Url="html/24152c03-a623-eb84-6203-6abb0985124b.htm" />
+  <HelpKINode Title="RollResult enumeration" Url="html/546a424c-4342-f8a9-a25e-49b90661b275.htm" />
+  <HelpKINode Title="Score property" Url="html/85f5759b-117e-f241-0e63-e4a94c887e85.htm" />
+  <HelpKINode Title="SetNextPlayer method" Url="html/22fc089d-57e1-bfda-e3e8-b6fa221dfb81.htm" />
+  <HelpKINode Title="StartGame method" Url="html/c13d7ff6-8757-c86b-0a8d-10fbe8138762.htm" />
+  <HelpKINode Title="TheWinner method" Url="html/0dc5bf36-033b-1adf-1ee5-b7c7480e85bf.htm" />
+  <HelpKINode Title="Turn property" Url="html/84d3a6f0-4ffb-800b-dbf4-aae9dca976c3.htm" />
+  <HelpKINode Title="UpdatePlayerStat method" Url="html/444bcd8f-38b8-4d69-e4c2-a81d27f0cb86.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0.0.0" Url="html/e65bba36-63b2-415e-8959-722bdf79231c.htm" />
+    <HelpKINode Title="history" Url="html/bcd4fa11-592d-4094-8d41-2b561ba8a4c6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Welcome" Url="html/daa98785-1c17-4927-931e-3e510215e0fb.htm" />
+  <HelpKINode Title="WIN enumeration member" Url="html/546a424c-4342-f8a9-a25e-49b90661b275.htm" />
+</HelpKI>

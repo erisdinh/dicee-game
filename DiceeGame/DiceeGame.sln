@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceeGame", "DiceeGame.cspr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLogic", "..\GameLogic\GameLogic.csproj", "{8EFEA4F6-1607-4AE2-AB1C-5DC1485FB47B}"
 EndProject
+Project("{7CF6DF6D-3B04-46F8-A40B-537D21BCA0B4}") = "DiceGameDocs", "..\DiceGameDocs\DiceGameDocs.shfbproj", "{FB159C14-05B3-4AC6-B065-A951BE6981E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8EFEA4F6-1607-4AE2-AB1C-5DC1485FB47B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EFEA4F6-1607-4AE2-AB1C-5DC1485FB47B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EFEA4F6-1607-4AE2-AB1C-5DC1485FB47B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB159C14-05B3-4AC6-B065-A951BE6981E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB159C14-05B3-4AC6-B065-A951BE6981E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB159C14-05B3-4AC6-B065-A951BE6981E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB159C14-05B3-4AC6-B065-A951BE6981E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

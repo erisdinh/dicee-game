@@ -11,11 +11,17 @@ namespace DiceeGame {
 
             int numOfPlayer = 2;
 
+            do {
+                Console.Write("Enter number of players: ");
+            } while (!int.TryParse(Console.ReadLine(), out numOfPlayer));
+
             DiceGame game = new DiceGame(2);
 
             for (int i = 0; i < numOfPlayer; i++) {
                 game.AddPlayer(new Player("Player"+(i+1)));
             }
+
+            Console.WriteLine();
 
             PlayGame(game);
             Console.ReadKey();
@@ -23,10 +29,10 @@ namespace DiceeGame {
 
         public static void PlayGame(DiceGame game) {
             game.StartGame();
-
+            Random random = new Random();
             while (!game.IsGameOver) {
                 Console.WriteLine("Turn: " + (game.Turn+1));
-                game.PlayTurn();
+                game.PlayTurn(random);
                 PrintPlayerTurnInfo(game);
                 if (game.IsGameOver) {
                     break;
@@ -42,12 +48,13 @@ namespace DiceeGame {
 
             Console.WriteLine("Active Player: " + activePlayer.Name);
             Console.Write("Dices: ");
-            for (int i = 0; i < game.Dices.Count; i++) {
-                Console.Write(game.Dices[i].Face + "   ");
+            foreach (Dice dice in game.Dices) {
+                Console.Write(dice.Face + "   ");
             }
             Console.WriteLine();
             Console.WriteLine("Score: " + activePlayer.Score);
             Console.WriteLine("Turn result: " + activePlayer.History[game.Turn]);
+            Console.WriteLine();
         }
 
         public static void GenerateGameResult(DiceGame game) {

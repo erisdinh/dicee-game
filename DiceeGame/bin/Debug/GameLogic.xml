@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GameLogic</name>
+    </assembly>
+    <members>
+        <member name="T:GameLogic.Logic.Dice">
+            <summary>
+            Dice object
+            </summary>
+        </member>
+        <member name="P:GameLogic.Logic.Dice.Max">
+            <summary>
+            Max value (face) of the dice
+            </summary>
+        </member>
+        <member name="P:GameLogic.Logic.Dice.Face">
+            <summary>
+            The face that is generated when the dice is rolled
+            </summary>
+        </member>
+        <member name="M:GameLogic.Logic.Dice.Roll(System.Random)">
+            <summary>
+            Roll the dice from 1 to its max value
+            </summary>
+            <param name="random">Serves as random object to roll the dice</param>
+        </member>
+        <member name="T:GameLogic.Logic.DiceGame">
+            <summary>
+            DiceGame object
+            </summary>
+        </member>
+        <member name="M:GameLogic.Logic.DiceGame.#ctor(System.Int32)">
+            <summary>
+            Constructor of the Dice Game
+            </summary>
+            <param name="numOfDice">Serves as number of dices used in the game</param>
+        </member>
+        <member name="P:GameLogic.Logic.DiceGame.Players">
+            <summary>
+            List of players of the game
+            </summary>
+        </member>
+        <member name="P:GameLogic.Logic.DiceGame.Dices">
+            <summary>
+            List of dices for each turn
+            </summary>
+        </member>
+        <member name="P:GameLogic.Logic.DiceGame.ActivePlayer">
+            <summary>
+            Current active player who is playing
+            </summary>
+        </member>
+        <member name="P:GameLogic.Logic.DiceGame.Turn">
+            <summary>
+            Index of the current turn
+            </summary>
+        </member>
+        <member name="P:GameLogic.Logic.DiceGame.IsGameOver">
+            <summary>
+            Check whether the Dice Gmae is over
+            </summary>
+        </member>
+        <member name="M:GameLogic.Logic.DiceGame.AddPlayer(GameLogic.Logic.Player)">
+            <summary>
+            Add new player to the Dice Name
+            </summary>
+            <param name="player"></param>
+        </member>
+        <member name="M:GameLogic.Logic.DiceGame.StartGame">
+            <summary>
+            Start the Dice Game
+            </summary>
+        </member>
+        <member name="M:GameLogic.Logic.DiceGame.PlayTurn(System.Random)">
+            <summary>
+            Play each player turn
+            </summary>
+            <param name="random">Serves as an random object for rolling dices</param>
+        </member>
+        <member name="M:GameLogic.Logic.DiceGame.RollDice(System.Random)">
+            <summary>
+            Roll the dices
+            </summary>
+            <param name="random">Serves as an random object for rolling dices</param>
+        </member>
+        <member name="M:GameLogic.Logic.DiceGame.ComputeTurnResult">
+            <summary>
+            Compute the result and score of player turn
+            </summary>
+        </member>
+        <member name="M:GameLogic.Logic.DiceGame.UpdatePlayerStat">
+            <summary>
+            Update status of players
+            </summary>
+        </member>
+        <member name="M:GameLogic.Logic.DiceGame.SetNextPlayer">
+            <summary>
+            Set the next player in turn
+            </summary>
+        </member>
+        <member name="M:GameLogic.Logic.DiceGame.TheWinner">
+            <summary>
+            Get the winner of the Dice Game
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:GameLogic.Logic.Player">
+            <summary>
+            Player object of the game
+            </summary>
+        </member>
+        <member name="M:GameLogic.Logic.Player.#ctor(System.String)">
+            <summary>
+            Constructor of Player
+            </summary>
+            <param name="name">Serves as name of the player</param>
+        </member>
+        <member name="P:GameLogic.Logic.Player.Name">
+            <summary>
+            Name of the player
+            </summary>
+        </member>
+        <member name="P:GameLogic.Logic.Player.Score">
+            <summary>
+            Cummulative score of the player
+            </summary>
+        </member>
+        <member name="P:GameLogic.Logic.Player.History">
+            <summary>
+            Result list of player's turns
+            </summary>
+        </member>
+        <member name="T:GameLogic.Logic.RollResult">
+            <summary>
+            Set of turn result
+            </summary>
+        </member>
+    </members>
+</doc>
